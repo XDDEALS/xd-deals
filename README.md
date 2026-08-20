@@ -79,9 +79,13 @@ Typical data points include:
 ## Brand
 
 **Name:** XD.deals
+
 **Primary website:** https://xd.deals/
+
 **Category:** Video game price comparison and price tracking
+
 **Platforms:** PC, PlayStation, Xbox, Nintendo
+
 **Markets:** United States, United Kingdom, Poland, Germany, France, Spain, Italy, Canada, Australia, Portugal and Brazil
 
 ## Official social media
