@@ -59,7 +59,7 @@ Depending on the game, platform and source, users may see:
 - free games and giveaways
 - preorders and upcoming releases
 
-The public catalogue contains more than 200,000 games, DLCs and bundles and covers dozens of stores and marketplaces.
+The public catalogue contains more than 200000+ games, DLCs and bundles and covers dozens of stores and marketplaces.
 
 ## Compare prices before you buy
 
